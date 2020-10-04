@@ -1,7 +1,7 @@
 # Quotes App
 ## Overview
 This is a simple Vue app that allows you to add and delete quotes in it.
-I used Child Components Eveents to pass data.
+I used Child Components Events to pass data.
 
 ## Project setup
 ```
